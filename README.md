@@ -2,7 +2,7 @@ Description: This project is a static web page created using HTML5, CSS3, and jQ
 
 Features: Responsive Design: The page adapts to different screen sizes for optimal viewing on desktop, tablet, and mobile devices. Interactive Elements: Includes jQuery functionalities for enhanced user interactions. Modern HTML5 and CSS3: Utilizes the latest web standards for clean and efficient code.
 
-Installation: Clone the repository: bash Copy code git clone 
+Installation: Clone the repository: bash Copy code git clone https://github.com/elavarasan-periayasamy/Nexcent_Elavarasan
 
 Usage: View the Page: Open index.html in your browser. Edit the Code: Modify HTML, CSS, or jQuery files as needed and refresh the browser to see changes.
 
